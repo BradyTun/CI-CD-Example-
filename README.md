@@ -12,6 +12,7 @@ Open `index.html` in your browser. No installation or build step is required.
 - Interactive, simulated CI/CD pipeline with replay controls.
 - Copyable GitHub Actions workflow example.
 - Keyboard focus indicators and reduced motion support.
+- Staggered entrance and scroll reveals, gentle pipeline tilt, button sheen, and animated pipeline progress.
 - All page styles and scripts included in one HTML file.
 
 Sora loads from Google Fonts and requires an internet connection. A sans-serif fallback is used when unavailable. Clipboard access depends on the browser; when copying is unavailable, the example code is selected for manual copying.
